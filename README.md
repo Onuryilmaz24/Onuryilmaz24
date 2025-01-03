@@ -41,7 +41,10 @@ Welcome to my GitHub profile! I'm a **Junior Software Development Engineer** and
 ## 🛠️ Projects  
 
 ### Marketplace App  
-A React-based marketplace with login/logout functionality, user context, and seamless navigation.  
+A React-based marketplace with login/logout functionality, user context, and seamless navigation. 
+[Backend Repo](https://github.com/Onuryilmaz24/nc-news-project)
+[Frontend Repo](https://github.com/Onuryilmaz24/nc-news)
+[Hosted Site](https://nc-marketplace-onur.netlify.app/)
 
 ---
 
