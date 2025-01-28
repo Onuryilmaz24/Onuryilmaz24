@@ -29,6 +29,8 @@ Welcome to my GitHub profile! I'm a **Junior Software Development Engineer** and
 - ☁️ **Cloud**: AWS (EC2) - on progress.  
 - 📚 **Learning**: TypeScript, Android/iOS Development, React Native.  
 
+
+![Codewars](https://github.r2v.ch/codewars?user=Onuryilmaz24&stroke=yellow)
 ---
 
 ## 📈 GitHub Stats  
